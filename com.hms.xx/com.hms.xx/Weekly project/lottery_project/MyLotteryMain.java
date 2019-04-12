@@ -1,4 +1,4 @@
-//package lottery_project;
+package lottery_project;
 
 import java.util.Arrays;
 
